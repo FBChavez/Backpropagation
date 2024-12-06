@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\bin\Debug\Backpropagation-Activity.exe.config
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\bin\Debug\Backpropagation-Activity.exe
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\bin\Debug\Backpropagation-Activity.pdb
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation-Activity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation_Activity.Properties.Resources.resources
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation-Activity.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation-Activity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation-Activity.exe
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation-Activity.pdb
+C:\Users\User\Desktop\BSCS-3\CS345 - F2 Intelligent Systems 1\Backpropagation-Activity\obj\Debug\Backpropagation_Activity.Form1.resources
